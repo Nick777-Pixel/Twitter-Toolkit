@@ -92,6 +92,7 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 wordcloud
+openpyxl
 wrapt==1.11.2
 xgboost==0.90
 zipp==3.2.0
