@@ -81,7 +81,7 @@ six==1.12.0
 sklearn==0.0
 statsmodels==0.11.1
 streamlit
-tweepy==3.9.0
+tweepy
 textblob==0.15.3
 typed-ast==1.4.0
 tzlocal==2.1
